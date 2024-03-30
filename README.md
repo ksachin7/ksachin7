@@ -8,7 +8,6 @@ I am a fervent software developer eager to share my creations</code>
 </div>
 <br />
 <p align=center>Welcome to my GitHub profile!</p>
-<br /> 
 <!-- ## About Me -->
 <pre>
 🙋🏻‍♂️ Open for Job opportunity in Software development     <br> 
