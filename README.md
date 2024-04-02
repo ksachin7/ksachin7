@@ -11,7 +11,7 @@ I am a fervent software developer eager to share my creations</code>
 <!-- ## About Me -->
 <pre>
 🙋🏻‍♂️ Open for Job opportunity in Software development     <br> 
-🎓 BE(Computer Science Engineering)  <br>
+🎓 BE-2021(Computer Science Engineering)  <br>
 💼 Worked on Infinite Computer Solutions (SMP Nokia R&D)  <br>
 🌱 Currently Learning Unit-testing, CICD, nodejs, etc.  <br>
 
