@@ -15,7 +15,7 @@ I am a fervent software developer eager to share my creations</code>
 💼 Worked on Infinite Computer Solutions (SMP Nokia R&D)  <br>
 🌱 Currently Learning Unit-testing, CICD, nodejs, etc.  <br>
 
-📫 How to reach me: <a href='mailto:isachin.imp.gmail.com'>isachin.imp.gmail.com</a> <i class="fa-solid fa-envelope"></i>
+📫 How to reach me: <a href='mailto:isachin.imp@gmail.com'>isachin.imp.gmail.com</a> <i class="fa-solid fa-envelope"></i>
 </pre>
 <!-- <a href="https://github.com/ksachin7/convoychat">
     <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksachin7&layout=compact&theme=dark&hide_border=true&)](https://github.com/ksachin7" />
