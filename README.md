@@ -1,7 +1,6 @@
 <h1 align= 'center'> 👋 Hi there, I'm Sachin Kumar</h3>
 <div  align= 'center'>
-<code>Embarking on a journey through the realms of code
-I am a fervent software developer eager to share my creations</code>
+<code>I'm a fervent software developer eager to share my creations</code>
 <br />
  <!-- <span>Step into my GitHub realm and explore the wonders I've crafted!<span> -->
 <!-- <code>I'm a Software developer passionate about Software development. Welcome to my GitHub profile!</code> -->
