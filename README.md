@@ -25,16 +25,17 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java" style="margin-right: 50px;">
 &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" style="margin-right: 23px;">
-  &nbsp;&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" alt="Spring" style="margin-right: 10px;">&nbsp;&nbsp;&nbsp;
+<!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="50" alt="hibernate" style="margin-right: 10px;">&nbsp;&nbsp;&nbsp; -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" style="margin-right: 23px;">&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" alt="React" style="margin-right: 23px;">
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" alt="Redux" style="margin-right: 23px;">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS" style="margin-right: 23px;">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML" style="margin-right: 23px;">
-  &nbsp;&nbsp;&nbsp;
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS" style="margin-right: 23px;">
+  &nbsp;&nbsp;&nbsp; -->
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML" style="margin-right: 23px;">
+  &nbsp;&nbsp;&nbsp; -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" alt="SCSS" style="margin-right: 23px;">
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="50" alt="Webpack" style="margin-right: 23px;">
