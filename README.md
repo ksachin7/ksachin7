@@ -7,7 +7,7 @@
 </div>
 <h3 align=center><strong>Welcome to my GitHub profile!</strong></h3>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ksachin7&color=1)
+<!-- ![Profile Views](https://visitcount.itsvg.in/api?id=ksachin7&color=1) -->
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=ksachin7&color=blue&style=flat-square) -->
 <!-- ## About Me -->
