@@ -7,8 +7,9 @@
 </div>
 <h4 align=center>Welcome to my GitHub profile!</h4>
 
-<!-- ![Profile Views](https://visitcount.itsvg.in/api?id=ksachin7&color=1) -->
-
+<!-- 
+[![Profile Views](https://visitcount.itsvg.in/api?id=ksachin7&color=1)](https://visitcount.itsvg.in) 
+-->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=ksachin7&color=blue&style=flat-square) -->
 <!-- ## About Me -->
 <pre>
@@ -19,6 +20,14 @@
 💬 Ask me about anything, I am happy to help 😄 <br>
 📫 How to reach me: <a href='mailto:isachin.imp@gmail.com'>isachin.imp@gmail.com</a> <i class="fa-solid fa-envelope"></i>
 </pre>
+
+<!-- Connect with me -->
+
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:isachin.imp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-k-187419184)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/ksachin7)
+[![](https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white)](https://dev-sachin.netlify.app)
+
 <!-- <a href="https://github.com/ksachin7/convoychat">
     <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksachin7&layout=compact&theme=dark&hide_border=true&)](https://github.com/ksachin7" />
 </a> -->
