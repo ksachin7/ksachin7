@@ -11,6 +11,29 @@
 [![Profile Views](https://visitcount.itsvg.in/api?id=ksachin7&color=1)](https://visitcount.itsvg.in) 
 -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=ksachin7&color=blue&style=flat-square) -->
+
+<!-- Connect with me -->
+<!-- 
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:isachin.imp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-k-187419184)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/ksachin7)
+[![](https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white)](https://dev-sachin.netlify.app)
+-->
+ <p align="center">
+  <a href="mailto:isachin.imp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=flat" alt="Gmail">
+  </a>
+  <a href="https://github.com/ksachin7">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=flat" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/sachin-k-187419184">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
+  </a>
+  <a href="https://dev-sachin.netlify.app">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white&style=flat" alt="Website">
+  </a>
+</p>
+
 <!-- ## About Me -->
 <pre>
 🙋🏻‍♂️ Open for Job opportunity in Software development     <br> 
@@ -20,13 +43,6 @@
 💬 Ask me about anything, I am happy to help 😄 <br>
 📫 How to reach me: <a href='mailto:isachin.imp@gmail.com'>isachin.imp@gmail.com</a> <i class="fa-solid fa-envelope"></i>
 </pre>
-
-<!-- Connect with me -->
-
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:isachin.imp@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-k-187419184)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/ksachin7)
-[![](https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white)](https://dev-sachin.netlify.app)
 
 <!-- <a href="https://github.com/ksachin7/convoychat">
     <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksachin7&layout=compact&theme=dark&hide_border=true&)](https://github.com/ksachin7" />
