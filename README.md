@@ -1,11 +1,11 @@
 <h1 align= 'center'> 👋 Hi there, I'm <strong>Sachin Kumar</strong></h3>
 <div  align= 'center'>
-<code>I'm a fervent software developer eager to share my creations</code>
-<br />
+<!-- <code>I'm a fervent software developer eager to share my creations</code>
+<br /> -->
  <!-- <span>Step into my GitHub realm and explore the wonders I've crafted!<span> -->
 <!-- <code>I'm a Software developer passionate about Software development. Welcome to my GitHub profile!</code> -->
 </div>
-<h3 align=center><strong>Welcome to my GitHub profile!</strong></h3>
+<h4 align=center>Welcome to my GitHub profile!</h4>
 
 <!-- ![Profile Views](https://visitcount.itsvg.in/api?id=ksachin7&color=1) -->
 
