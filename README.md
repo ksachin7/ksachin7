@@ -20,16 +20,16 @@
 [![](https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white)](https://dev-sachin.netlify.app)
 -->
  <p align="center">
-  <a href="mailto:isachin.imp@gmail.com">
+  <a href="mailto:isachin.imp@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=flat" alt="Gmail">
   </a>
-  <a href="https://github.com/ksachin7">
+  <a href="https://github.com/ksachin7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=flat" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/sachin-k-187419184">
+  <a href="https://www.linkedin.com/in/sachin-k-187419184" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
   </a>
-  <a href="https://dev-sachin.netlify.app">
+  <a href="https://dev-sachin.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white&style=flat" alt="Website">
   </a>
 </p>
