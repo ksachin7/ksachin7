@@ -1,19 +1,22 @@
-<h1 align= 'center'> 👋 Hi there, I'm Sachin Kumar</h3>
+<h1 align= 'center'> 👋 Hi there, I'm <strong>Sachin Kumar</strong></h3>
 <div  align= 'center'>
 <code>I'm a fervent software developer eager to share my creations</code>
 <br />
  <!-- <span>Step into my GitHub realm and explore the wonders I've crafted!<span> -->
 <!-- <code>I'm a Software developer passionate about Software development. Welcome to my GitHub profile!</code> -->
 </div>
-<br />
-<p align=center>Welcome to my GitHub profile!</p>
+<h3 align=center><strong>Welcome to my GitHub profile!</strong></h3>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=ksachin7&color=1)
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=ksachin7&color=blue&style=flat-square) -->
 <!-- ## About Me -->
 <pre>
 🙋🏻‍♂️ Open for Job opportunity in Software development     <br> 
 🎓 BE-2021(Computer Science Engineering)  <br>
 💼 Worked on Infinite Computer Solutions (SMP Nokia R&D)  <br>
 🌱 Currently Learning Unit-testing, CICD, nodejs, etc.  <br>
-
+💬 Ask me about anything, I am happy to help 😄 <br>
 📫 How to reach me: <a href='mailto:isachin.imp@gmail.com'>isachin.imp@gmail.com</a> <i class="fa-solid fa-envelope"></i>
 </pre>
 <!-- <a href="https://github.com/ksachin7/convoychat">
