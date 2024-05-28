@@ -39,7 +39,7 @@
 🙋🏻‍♂️ Open for Job opportunity in Software development     <br> 
 🎓 BE-2021(Computer Science Engineering)  <br>
 💼 Worked on Infinite Computer Solutions (SMP Nokia R&D)  <br>
-🌱 Currently Learning Unit-testing, CICD, nodejs, etc.  <br>
+🌱 Currently Learning Springboot, Hibernate, Spring security, etc.  <br>
 💬 Ask me about anything, I am happy to help 😄 <br>
 📫 How to reach me: <a href='mailto:isachin.imp@gmail.com'>isachin.imp@gmail.com</a> <i class="fa-solid fa-envelope"></i>
 </pre>
