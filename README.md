@@ -7,9 +7,7 @@
 </div>
 <h4 align=center>Welcome to my GitHub profile!</h4>
 
-<!-- 
-[![Profile Views](https://visitcount.itsvg.in/api?id=ksachin7&color=1)](https://visitcount.itsvg.in) 
--->
+<!-- -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=ksachin7&color=blue&style=flat-square) -->
 
 <!-- Connect with me -->
@@ -26,6 +24,10 @@
   <a href="https://github.com/ksachin7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=flat" alt="GitHub">
   </a>
+
+  <a href="https://github.com/ksachin7">
+     <img src="https://visitcount.itsvg.in/api?id=ksachin7&color=1" alt="view_count" height="20">
+  </a>
   <a href="https://www.linkedin.com/in/sachin-k-187419184" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
   </a>
@@ -35,6 +37,8 @@
 </p>
 
 <!-- ## About Me -->
+<div align="">
+
 <pre>
 🙋🏻‍♂️ Open for Job opportunity in Software development     <br> 
 🎓 BE-2021(Computer Science Engineering)  <br>
@@ -44,9 +48,20 @@
 📫 How to reach me: <a href='mailto:isachin.imp@gmail.com'>isachin.imp@gmail.com</a> <i class="fa-solid fa-envelope"></i>
 </pre>
 
-<!-- <a href="https://github.com/ksachin7/convoychat">
-    <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksachin7&layout=compact&theme=dark&hide_border=true&)](https://github.com/ksachin7" />
+<!--
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ksachin7&layout=donut-vertical">
+    <img  height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksachin7&layout=compact&theme=dark&hide_border=true&)](https://github.com/ksachin7" />
 </a> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksachin7&layout=donut&theme=vue&card_width=300" height="170"> -->
+</div>
+<div align="center"> 
+ 
+ <!-- [![Profile Views](https://visitcount.itsvg.in/api?id=ksachin7&color=1)](https://visitcount.itsvg.in) -->
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ksachin7&layout=donut-vertical">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksachin7&theme=whatsapp-light2&mode=weekly&card_height=47" alt="GitHub Streak Stats">
+</a> 
+</div>
+
 <!-- 🛠️ Languages and Tools:   -->
 <br /> 
 
