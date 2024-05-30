@@ -57,11 +57,12 @@
 <!--
 <div align="center"> 
  
- <!-- [![Profile Views](https://visitcount.itsvg.in/api?id=ksachin7&color=1)](https://visitcount.itsvg.in) -->
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ksachin7&layout=donut-vertical">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksachin7&theme=whatsapp-light2&mode=weekly&card_height=47" alt="GitHub Streak Stats">
-</a> 
-</div> -->
+  [![Profile Views](https://visitcount.itsvg.in/api?id=ksachin7&color=1)](https://visitcount.itsvg.in) 
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ksachin7&layout=donut-vertical">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksachin7&theme=whatsapp-light2&mode=weekly&card_height=47" alt="GitHub Streak Stats">
+ </a> 
+</div> 
+-->
 
 <!-- 🛠️ Languages and Tools:   -->
 <br /> 
