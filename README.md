@@ -26,7 +26,7 @@
   </a>
 
   <a href="https://github.com/ksachin7">
-     <img src="https://visitcount.itsvg.in/api?id=ksachin7&color=1" alt="view_count" height="20">
+     <img src="https://visitcount.itsvg.in/api?id=ksachin7&color=6&pretty=true" alt="view_count" height="20">
   </a>
   <a href="https://www.linkedin.com/in/sachin-k-187419184" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
