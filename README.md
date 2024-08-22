@@ -42,8 +42,8 @@
 <pre>
 🙋🏻‍♂️ Open for Job opportunity in Software development     <br>
 🎓 BE-2021(Computer Science Engineering)  <br>
-💼 Worked on Infinite Computer Solutions (SMP Nokia R&D)  <br>
-🌱 Currently Learning Springboot, Hibernate, Spring security, etc.  <br>
+💼 Worked on Infinite Computer Solutions (SMP: Nokia R&D)  <br>
+🌱 Currently Learning Docker and Kubernetes <br>
 💬 Ask me about anything, I am happy to help 😄 <br>
 📫 How to reach me: <a href='mailto:isachin.imp@gmail.com'>isachin.imp@gmail.com</a> <i class="fa-solid fa-envelope"></i>
 </pre>
@@ -56,7 +56,6 @@
 </div>
 <!--
 <div align="center"> 
- 
   [![Profile Views](https://visitcount.itsvg.in/api?id=ksachin7&color=1)](https://visitcount.itsvg.in) 
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ksachin7&layout=donut-vertical">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksachin7&theme=whatsapp-light2&mode=weekly&card_height=47" alt="GitHub Streak Stats">
