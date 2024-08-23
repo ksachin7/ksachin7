@@ -43,8 +43,9 @@
 🙋🏻‍♂️ Open for Job opportunity in Software development     <br>
 🎓 BE-2021(Computer Science Engineering)  <br>
 💼 Worked on Infinite Computer Solutions (SMP: Nokia R&D)  <br>
-🌱 Currently Learning Docker and Kubernetes <br>
+🌱 Currently Learning: Docker and Kubernetes <br>
 💬 Ask me about anything, I am happy to help 😄 <br>
+🚀 Important <a href="projects.md">Projects</a><img src="left-arrow.gif" alt="left" width="16px" height="auto"><br>
 📫 How to reach me: <a href='mailto:isachin.imp@gmail.com'>isachin.imp@gmail.com</a> <i class="fa-solid fa-envelope"></i>
 </pre>
 
@@ -62,6 +63,7 @@
  </a> 
 </div> 
 -->
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksachin7&theme=github-compact&hide_border=)](https://github.com/ksachin7/github-readme-activity-graph)
 
 <!-- 🛠️ Languages and Tools:   -->
 <br />
