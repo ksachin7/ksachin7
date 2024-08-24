@@ -65,7 +65,7 @@
 </div> 
 -->
 
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksachin7&theme=github-compact&hide_border=)](https://github.com/ksachin7/github-readme-activity-graph)
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksachin7&theme=github-compact&hide_border=false&area=false&line=186a3b&point=909497)](https://github.com/ksachin7/github-readme-activity-graph)
 
 <!-- 🛠️ Languages and Tools:   -->
 <br />
