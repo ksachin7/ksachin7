@@ -48,6 +48,7 @@
 🚀 See my <a href="projects.md">Projects</a><img src="left-arrow.gif" alt="left" width="16px" height="auto"><br>
 📫 How to reach me: <a href='mailto:isachin.imp@gmail.com'>isachin.imp@gmail.com</a> <i class="fa-solid fa-envelope"></i>
 </pre>
+<!--  <img src="left-arrow.gif" alt="left" width="16px" height="auto"> -->
 
 <!--
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ksachin7&layout=donut-vertical">
@@ -63,7 +64,8 @@
  </a> 
 </div> 
 -->
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksachin7&theme=github-compact&hide_border=)](https://github.com/ksachin7/github-readme-activity-graph)
+
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksachin7&theme=github-compact&hide_border=false&area=false&line=2ecc71&point=27ae60)](https://github.com/ksachin7/github-readme-activity-graph)
 
 <!-- 🛠️ Languages and Tools:   -->
 <br />
