@@ -45,7 +45,7 @@
 💼 Worked on Infinite Computer Solutions (SMP: Nokia R&D)  <br>
 🌱 Currently Learning: Docker and Kubernetes <br>
 💬 Ask me about anything, I am happy to help 😄 <br>
-🚀 Important <a href="projects.md">Projects</a><img src="left-arrow.gif" alt="left" width="16px" height="auto"><br>
+🚀 See my <a href="projects.md">Projects</a><img src="left-arrow.gif" alt="left" width="16px" height="auto"><br>
 📫 How to reach me: <a href='mailto:isachin.imp@gmail.com'>isachin.imp@gmail.com</a> <i class="fa-solid fa-envelope"></i>
 </pre>
 
