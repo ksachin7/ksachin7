@@ -14,7 +14,7 @@ The Online Shopping System is a microservices-based application designed to hand
 
 The system is composed of several microservices, each responsible for a specific domain within the application. These services communicate with each other via REST APIs and are managed and deployed using Docker and Kubernetes.
 <img
-    src='./img/app-architecture.drawio.png'
+    src='https://github.com/ksachin7/ksachin7/blob/main/.cache/app-architecture.drawio.png'
     alt='#microservices-app-architecture'
     width="100%" height="auto"
 />
