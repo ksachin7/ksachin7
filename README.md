@@ -79,7 +79,7 @@
 &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" style="margin-right: 23px;">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/golang-original.svg" width="50" alt="Spring" style="margin-right: 23px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" width="50" alt="Spring" style="margin-right: 23px;">
  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" alt="React" style="margin-right: 23px;">
   &nbsp;&nbsp;
