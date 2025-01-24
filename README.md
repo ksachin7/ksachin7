@@ -25,9 +25,9 @@
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=flat" alt="GitHub">
   </a>
 
-  <a href="https://github.com/ksachin7">
+  <!-- <a href="https://github.com/ksachin7">
      <img src="https://visitcount.itsvg.in/api?id=ksachin7&color=6&pretty=true" alt="view_count" height="20">
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/sachin-k-187419184" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
   </a>
@@ -41,9 +41,9 @@
 
 <pre>
 🙋🏻‍♂️ Open for Job opportunity in Software development     <br>
-🎓 BE-2021(Computer Science Engineering)  <br>
-💼 Worked on Infinite Computer Solutions (SMP: Nokia R&D)  <br>
-🌱 Currently Learning: Docker and Kubernetes <br>
+🎓 BE-2021(Computer Science Engineering) | CDAC  <br>
+💼 Worked on ICS (SMP: Nokia R&D)  <br>
+🌱 Learning: Angular and Python <br>
 💬 Ask me about anything, I am happy to help 😄
 <!-- 🚀 See my <a href="projects.md">Projects</a><img src="left-arrow.gif" alt="left" width="16px" height="auto"><br> -->
 📫 How to reach me: <a href='mailto:isachin.imp@gmail.com'>isachin.imp@gmail.com</a> <i class="fa-solid fa-envelope"></i>
@@ -72,11 +72,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java" style="margin-right: 23px;">
-&nbsp;&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" alt="Spring" style="margin-right: 23px;">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" alt="Spring" style="margin-right: 23px;">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="50" alt="hibernate" style="margin-right: 23px;">
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" alt="Spring" style="margin-right: 23px;">
  &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="50" alt="hibernate" style="margin-right: 23px;">
-&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" style="margin-right: 23px;">
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" alt="React" style="margin-right: 23px;">
@@ -87,13 +90,13 @@
   &nbsp;&nbsp;&nbsp; -->
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML" style="margin-right: 23px;">
   &nbsp;&nbsp;&nbsp; -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" alt="NodeJS" style="margin-right: 23px;">
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" alt="SCSS" style="margin-right: 23px;">
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="50" alt="Webpack" style="margin-right: 23px;">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" alt="MySQL" style="margin-right: 23px;">
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" alt="NodeJS" style="margin-right: 23px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" alt="MySQL" style="margin-right: 23px;">
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git"  style="margin-right: 23px;">
     &nbsp;&nbsp;
